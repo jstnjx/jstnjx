@@ -1,16 +1,79 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jstnjx/jstnjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there, I'm Justin 👋
 
-Here are some ideas to get you started:
+### Frontend developer focused on tooling, automation, and smart home integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<img src="https://img.shields.io/github/followers/jstnjx?style=for-the-badge&logo=github&label=Followers">
+<img src="https://img.shields.io/github/stars/jstnjx?style=for-the-badge&logo=github&label=Stars">
+
+
+
+
+</div>
+
+---
+
+## 🎛️ Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 [Icons](https://github.com/jstnjx/Icons)
+
+Icon & tile platform for the Unfolded Circle ecosystem.
+
+- Icon Database
+- Community uploads
+- Icon Creator
+- Tile Creator
+
+</td>
+<td width="50%">
+
+### 🎵 [HA Spotify](https://github.com/jstnjx/ha-intg-spotify)
+
+Spotify integration for Home Assistant.
+
+- Playback integration
+- Automation support
+- Media state handling
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💸 [AliExpress Total Spent](https://github.com/jstnjx/aliexpress-total-spent)
+
+Utility for analyzing AliExpress purchase history.
+
+- Spending totals
+- Order parsing
+- Purchase insights
+
+</td>
+<td width="50%">
+
+### ⚡ [More Projects](https://github.com/jstnjx/)
+
+Additional tooling, automation utilities, and integration workflows available on GitHub.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,docker,python,js,ts,html,css,sass,tailwind" />
+
+</div>
+
