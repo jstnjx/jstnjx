@@ -2,45 +2,41 @@
 
 # Hey there, I'm Justin 👋
 
-### Frontend developer focused on tooling, automation, and smart home integration.
-
-
+### Building open-source tools for Unfolded Circle, Home Assistant, and smart home automation.
 
 <img src="https://img.shields.io/github/followers/jstnjx?style=for-the-badge&logo=github&label=Followers">
 <img src="https://img.shields.io/github/stars/jstnjx?style=for-the-badge&logo=github&label=Stars">
-
-
-
 
 </div>
 
 ---
 
-## 🎛️ Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎨 [Icons](https://github.com/jstnjx/Icons)
+### 🎨 [Unfolded.Tools (Icons)](https://github.com/jstnjx/Icons)
 
-Icon & tile platform for the Unfolded Circle ecosystem.
+Community-driven icon platform for the Unfolded Circle ecosystem.
 
-- Icon Database
-- Community uploads
-- Icon Creator
+- Large icon library
+- Community contributions
+- Built-in Icon Creator
 - Tile Creator
 
 </td>
 <td width="50%">
 
-### 🎵 [HA Spotify](https://github.com/jstnjx/ha-intg-spotify)
+### 🔌 [UC External Integration Installer](https://github.com/jstnjx/uc-external-integration-installer)
 
-Spotify integration for Home Assistant.
+One-click installer and updater for external Unfolded Circle integrations.
 
-- Playback integration
-- Automation support
-- Media state handling
+- Install from releases or development builds
+- Automatic updates
+- Web-based management UI
+- Multi-integration support
 
 </td>
 </tr>
@@ -48,20 +44,26 @@ Spotify integration for Home Assistant.
 <tr>
 <td width="50%">
 
-### 💸 [AliExpress Total Spent](https://github.com/jstnjx/aliexpress-total-spent)
+### 🏠 [HA Unfolded Circle Dock](https://github.com/jstnjx/hass_unfolded_circle_dock)
 
-Utility for analyzing AliExpress purchase history.
+Home Assistant integration for the Unfolded Circle Dock.
 
-- Spending totals
-- Order parsing
-- Purchase insights
+- Control Dock IR transmitters
+- Send serial commands
+- Trigger dock actions
+- Native Home Assistant entities
 
 </td>
 <td width="50%">
 
-### ⚡ [More Projects](https://github.com/jstnjx/)
+### 💸 [AliExpress Total Spent](https://github.com/jstnjx/aliexpress-total-spent)
 
-Additional tooling, automation utilities, and integration workflows available on GitHub.
+Analyze your complete AliExpress purchase history.
+
+- Total spending analysis
+- Order history parsing
+- Purchase insights
+- Privacy-friendly
 
 </td>
 </tr>
@@ -69,11 +71,18 @@ Additional tooling, automation utilities, and integration workflows available on
 
 ---
 
-## ⚙️ Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,docker,python,js,ts,html,css,sass,tailwind" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,sass,tailwind,express,docker,git,github,vscode" />
 
 </div>
 
+---
+
+<div align="center">
+
+_Open source • Unfolded Circle • Home Assistant • Smart Home Automation_
+
+</div>
