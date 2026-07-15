@@ -19,7 +19,7 @@
 
 ### 🎨 [Unfolded.Tools (Icons)](https://github.com/jstnjx/Icons)
 
-Community-driven icon platform for the Unfolded Circle ecosystem.
+Community icon platform for Unfolded Circle Remotes.
 
 - Large icon library
 - Community contributions
@@ -31,7 +31,7 @@ Community-driven icon platform for the Unfolded Circle ecosystem.
 
 ### 🔌 [UC External Integration Installer](https://github.com/jstnjx/uc-external-integration-installer)
 
-One-click installer and updater for external Unfolded Circle integrations.
+One-click installer for external Unfolded Circle integrations.
 
 - Install from releases or development builds
 - Automatic updates
@@ -56,14 +56,14 @@ Home Assistant integration for the Unfolded Circle Dock.
 </td>
 <td width="50%">
 
-### 💸 [AliExpress Total Spent](https://github.com/jstnjx/aliexpress-total-spent)
+### 📊 [UC Dashboard](https://github.com/jstnjx/uc-dashboard)
 
-Analyze your complete AliExpress purchase history.
+Customizable web dashboard for Unfolded Circle remotes.
 
-- Total spending analysis
-- Order history parsing
-- Purchase insights
-- Privacy-friendly
+- Responsive widget-based interface
+- Camera streams including RTSP support
+- Built-in Unfolded.Tools icon library
+- Remote Integration
 
 </td>
 </tr>
